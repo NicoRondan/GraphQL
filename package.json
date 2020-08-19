@@ -10,7 +10,10 @@
   "author": "Nicolás Rondán",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.16.1"
+    "apollo-server": "^2.16.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
